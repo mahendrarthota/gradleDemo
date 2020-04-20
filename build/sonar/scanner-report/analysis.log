@@ -1,0 +1,46 @@
+SonarQube plugins:
+  - SonarPython 2.5.0.5733 (python)
+  - SonarCSS 1.2.0.1325 (cssfamily)
+  - JaCoCo 1.0.2.475 (jacoco)
+  - SonarGo 1.6.0.719 (go)
+  - SonarKotlin 1.5.0.315 (kotlin)
+  - Svn 1.9.0.1295 (scmsvn)
+  - SonarJS 6.2.0.12043 (javascript)
+  - SonarRuby 1.5.0.315 (ruby)
+  - SonarScala 1.5.0.315 (sonarscala)
+  - SonarC# 8.4.0.15306 (csharp)
+  - SonarJava 6.1.0.20866 (java)
+  - SonarHTML 3.2.0.2082 (web)
+  - Git 1.9.1.1834 (scmgit)
+  - SonarFlex 2.5.1.1831 (flex)
+  - SonarXML 2.0.1.2020 (xml)
+  - SonarPHP 3.3.0.5166 (php)
+  - SonarTS 2.1.0.4359 (typescript)
+  - SonarVB 8.4.0.15306 (vbnet)
+Global server settings:
+  - sonar.core.id=BF41A1F2-AXFD3zowtJTkcAxnXd8f
+  - sonar.core.startTime=2020-04-20T17:32:46+0530
+Project server settings:
+Project scanner properties:
+  - sonar.binaries=D:\java-hello-world-with-gradle-master\java-hello-world-with-gradle-master\build\classes\java\main
+  - sonar.host.url=http://localhost:9000
+  - sonar.java.binaries=D:\java-hello-world-with-gradle-master\java-hello-world-with-gradle-master\build\classes\java\main
+  - sonar.java.libraries=C:\Users\mahen\.gradle\caches\modules-2\files-2.1\joda-time\joda-time\2.2\a5f29a7acaddea3f4af307e8cf2d0cc82645fd7d\joda-time-2.2.jar
+  - sonar.java.source=1.7
+  - sonar.java.target=1.7
+  - sonar.java.test.binaries=D:\java-hello-world-with-gradle-master\java-hello-world-with-gradle-master\build\classes\java\test
+  - sonar.java.test.libraries=D:\java-hello-world-with-gradle-master\java-hello-world-with-gradle-master\build\classes\java\main,C:\Users\mahen\.gradle\caches\modules-2\files-2.1\joda-time\joda-time\2.2\a5f29a7acaddea3f4af307e8cf2d0cc82645fd7d\joda-time-2.2.jar,C:\Users\mahen\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar,C:\Users\mahen\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar
+  - sonar.junit.reportPaths=D:\java-hello-world-with-gradle-master\java-hello-world-with-gradle-master\build\test-results\test
+  - sonar.junit.reportsPath=D:\java-hello-world-with-gradle-master\java-hello-world-with-gradle-master\build\test-results\test
+  - sonar.libraries=C:\Users\mahen\.gradle\caches\modules-2\files-2.1\joda-time\joda-time\2.2\a5f29a7acaddea3f4af307e8cf2d0cc82645fd7d\joda-time-2.2.jar
+  - sonar.projectBaseDir=D:\java-hello-world-with-gradle-master\java-hello-world-with-gradle-master
+  - sonar.projectKey=HelloWorld
+  - sonar.projectName=HelloWorld
+  - sonar.projectVersion=unspecified
+  - sonar.scanner.app=ScannerGradle
+  - sonar.scanner.appVersion=2.8-SNAPSHOT/6.3
+  - sonar.sourceEncoding=windows-1252
+  - sonar.sources=D:\java-hello-world-with-gradle-master\java-hello-world-with-gradle-master\src\main\java
+  - sonar.surefire.reportsPath=D:\java-hello-world-with-gradle-master\java-hello-world-with-gradle-master\build\test-results\test
+  - sonar.tests=D:\java-hello-world-with-gradle-master\java-hello-world-with-gradle-master\src\test\java
+  - sonar.working.directory=D:\java-hello-world-with-gradle-master\java-hello-world-with-gradle-master\build\sonar
